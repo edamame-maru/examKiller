@@ -5,7 +5,7 @@ GCSE past papers, fast.
 ![image](https://github.com/edamame-maru/examKiller/assets/119129834/979cc489-94b7-4376-858a-b49dd0111dc1)
 
 
-## Installation
+## Installation (Windows)
 If you know how to, clone this repository/compile the code (e.g running setup.exe should be enough to start the GUI installer)
 
 Otherwise, 
